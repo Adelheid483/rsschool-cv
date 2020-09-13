@@ -1,4 +1,4 @@
-# Alina Ivanova
+# ALINA IVANOVA
 *Phone: +375(29)189-86-25 (Telegram, Viber)*  
 *E-mail: adelheid0106@gmail.com*
 
