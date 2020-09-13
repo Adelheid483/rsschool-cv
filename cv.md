@@ -7,9 +7,9 @@ There is a lot of smart and interesting people in development who like to study 
 I have a technical educational *(Belarusian National Technical University)*, so I can think rationality, structurally.  
 
 ### Skills  
-* HTML5
-* CSS3
-* Bootstrap4
+* HTML 5
+* CSS 3
+* Bootstrap 4
 * Sass/Less
 * JavaScript (ES5/ES6)
 * OOP
@@ -24,4 +24,5 @@ I’m studied at Coding School TeachMeSkills (September 2019 - April 2020).
 Every single day I’m reading articles and watching videos about development or about IT sphere in general.
 
 ### English  
-B1 (Intermediate). I understand speech, read articles, can support a friendly conversation with native speakers.
+B1 (Intermediate).  
+I understand speech, read articles, can support a friendly conversation with native speakers.
